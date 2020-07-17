@@ -1,2 +1,2 @@
 # Hangman
-cool word game
+WORD GUESSING GAME
